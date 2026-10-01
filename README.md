@@ -3,13 +3,13 @@
 💻 Futuro Software Engineer en proceso de aprendizaje constante.  
 🎯 Mi objetivo: construir soluciones tecnológicas eficientes.  
 
-Conocimientos en:
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,bootstrap,docker,spring)](https://skillicons.dev)  
+Conocimientos en:  
+[![My Skills](https://skillicons.dev/icons?i=py,java,spring,docker,html,css,bootstrap)](https://skillicons.dev)  
 
-Aprendiendo acutualmente  
-Para desarrollo movil:
+Aprendiendo acutualmente:   
+-Para desarrollo movil:  
 [![My Skills](https://skillicons.dev/icons?i=kotlin)](https://skillicons.dev)  
-Para desarrollo web:
+-Para desarrollo web:  
 [![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)  
 
 <!--
